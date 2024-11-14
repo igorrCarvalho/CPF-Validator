@@ -36,7 +36,7 @@
    git clone git@github.com:igorrCarvalho/CPF-Validator.git
    cd CPF-Validator
 1. **Start both backend and frontend**:
-```bash
+   ```bash
    cd src/backend
    npm run dev
    cd src/frontend
