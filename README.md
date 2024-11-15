@@ -35,9 +35,12 @@
    ```bash
    git clone git@github.com:igorrCarvalho/CPF-Validator.git
    cd CPF-Validator
-1. **Start both backend and frontend**:
+
+## Build
+
+1. **Start both backend and frontend docker containers**:
    ```bash
-   cd src/backend
-   npm run dev
-   cd src/frontend
-   npm run dev
+   cd src
+   docker-compose up -d
+
+  The app will be hosted in localhost:3000
