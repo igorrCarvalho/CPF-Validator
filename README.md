@@ -1,4 +1,4 @@
-# CPF Validation App
+# CPF Validator App
 
 ## Overview
 
