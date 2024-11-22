@@ -2,7 +2,7 @@
 
 ## Overview
 
-**CPF Validation App** is a backend application that allows users to enter a Brazilian CPF (Cadastro de Pessoas Físicas) number and verify if it’s valid. The application provides a single route to validate CPF numbers based on Brazilian CPF validation rules.
+**CPF Validation App** is a FullStack application that allows users to enter a Brazilian CPF (Cadastro de Pessoas Físicas) number and verify if it’s valid. The application provides a single route to validate CPF numbers based on Brazilian CPF validation rules.
 
 ## How It Works
 
